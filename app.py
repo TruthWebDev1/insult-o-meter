@@ -1,4 +1,4 @@
-# Sandbox URL https://sandbox.minepi.com/mobile-app-ui/app/the-insult-o-matic
+# Sandbox URL https://sandbox.minepi.com/app/truthweb
 
 from flask import Flask, render_template
 from flask import request
